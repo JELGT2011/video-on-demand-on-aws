@@ -100,7 +100,7 @@ const getFrameGroup = (event, outputPath) => ({
             RespondToAfd: 'NONE',
             TimecodeInsertion: 'DISABLED',
             Width: event.frameWidth,
-            ScalingBehavior: 'DEFAULT',
+            ScalingBehavior: 'STRETCH_TO_OUTPUT',
             AntiAlias: 'ENABLED',
             CodecSettings: {
                 FrameCaptureSettings: {

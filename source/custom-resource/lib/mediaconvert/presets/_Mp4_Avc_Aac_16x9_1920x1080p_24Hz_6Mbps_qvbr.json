@@ -57,7 +57,7 @@
     "AfdSignaling": "NONE",
     "Height": 1080,
     "Width": 1920,
-    "ScalingBehavior": "DEFAULT",
+    "ScalingBehavior": "STRETCH_TO_OUTPUT",
     "ColorMetadata": "INSERT",
     "AntiAlias": "ENABLED",
     "TimecodeInsertion": "DISABLED"
