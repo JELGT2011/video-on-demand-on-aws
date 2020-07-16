@@ -1,3 +1,8 @@
+# Project
+.idea
+temp
+tmp
+
 # compiled output
 **/dist
 **/global-s3-assets
